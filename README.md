@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacheng0193&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hacheng0193&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hacheng0193&theme=github_dark)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacheng0193&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacheng0193&layout=compact&theme=tokyonight&langs_count=8)
